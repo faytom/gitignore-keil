@@ -9,6 +9,8 @@
 *.uvgui
 *.uvgui.*
 *.uvguix.*
+*.uvprojx
+RTE/
 
 # Listing files
 *.cod
